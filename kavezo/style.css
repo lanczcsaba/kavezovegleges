@@ -1,0 +1,12 @@
+head{
+    background-image: url('hatterkep.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    #menu{
+        background-color: grey;
+        color: whitesmoke;
+        padding: 10px;
+    }
+}
+
